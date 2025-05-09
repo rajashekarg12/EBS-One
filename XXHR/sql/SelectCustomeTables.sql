@@ -2,6 +2,3 @@ Select * from City;
 
 
 
-
-
-
